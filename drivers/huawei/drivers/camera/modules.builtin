@@ -1,0 +1,9 @@
+kernel/drivers/huawei/drivers/camera/flash/lm3642.ko
+kernel/drivers/huawei/drivers/camera/ov5648_foxconn/ov5648_foxconn.ko
+kernel/drivers/huawei/drivers/camera/ov5648_sunny/ov5648_sunny.ko
+kernel/drivers/huawei/drivers/camera/s5k4e1ga_foxconn/s5k4e1ga_foxconn.ko
+kernel/drivers/huawei/drivers/camera/s5k4e1gx_foxconn/s5k4e1gx_foxconn.ko
+kernel/drivers/huawei/drivers/camera/sonyimx134/sonyimx134.ko
+kernel/drivers/huawei/drivers/camera/sonyimx135/sonyimx135.ko
+kernel/drivers/huawei/drivers/camera/sonyimx179/sonyimx179.ko
+kernel/drivers/huawei/drivers/camera/sonyimx214/sonyimx214.ko

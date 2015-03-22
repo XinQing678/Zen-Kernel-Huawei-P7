@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-hi6620/pwrctrl/test/built-in.o :=   /home/sebastian/android/sabermod/bin/arm-linux-androideabi-ld -EL    -r -o arch/arm/mach-hi6620/pwrctrl/test/built-in.o arch/arm/mach-hi6620/pwrctrl/test/test.o 

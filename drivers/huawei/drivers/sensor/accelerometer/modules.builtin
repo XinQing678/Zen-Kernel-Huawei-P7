@@ -1,0 +1,2 @@
+kernel/drivers/huawei/drivers/sensor/accelerometer/lsm330_acc.ko
+kernel/drivers/huawei/drivers/sensor/accelerometer/lsm330_gyr.ko

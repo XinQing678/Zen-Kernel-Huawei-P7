@@ -1,0 +1,6 @@
+kernel/drivers/huawei/drivers/power/bq27510_battery.ko
+kernel/drivers/huawei/drivers/power/bq2419x_charger.ko
+kernel/drivers/huawei/drivers/power/bq_bci_battery.ko
+kernel/drivers/huawei/drivers/power/hisi_battery_data.ko
+kernel/drivers/huawei/drivers/power/hisi_smartstar_coul.ko
+kernel/drivers/huawei/drivers/power/hisi_coul_drv.ko

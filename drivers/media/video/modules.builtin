@@ -1,0 +1,5 @@
+kernel/drivers/media/video/videodev.ko
+kernel/drivers/media/video/v4l2-int-device.ko
+kernel/drivers/media/video/v4l2-common.ko
+kernel/drivers/media/video/hi6620/capture/k3_capture.ko
+kernel/drivers/media/video/hi6620/vpp/vpp.ko

@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-hi6620/iomux/built-in.o :=   /home/sebastian/android/sabermod/bin/arm-linux-androideabi-ld -EL    -r -o arch/arm/mach-hi6620/iomux/built-in.o arch/arm/mach-hi6620/iomux/iomux.o arch/arm/mach-hi6620/iomux/keyboard_iomux.o arch/arm/mach-hi6620/iomux/dev_iomux.o arch/arm/mach-hi6620/iomux/iomux_ops.o 

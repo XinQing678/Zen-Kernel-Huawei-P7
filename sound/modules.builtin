@@ -1,0 +1,10 @@
+kernel/sound/soundcore.ko
+kernel/sound/core/snd.ko
+kernel/sound/core/snd-timer.ko
+kernel/sound/core/snd-pcm.ko
+kernel/sound/core/snd-page-alloc.ko
+kernel/sound/core/snd-rawmidi.ko
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/snd-soc-hi6401.ko
+kernel/sound/soc/hisilicon/snd-soc-hi6620.ko
+kernel/sound/soc/hisilicon/snd-soc-hi6620-hi6401.ko

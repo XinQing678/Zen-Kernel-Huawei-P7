@@ -1,0 +1,3 @@
+kernel/drivers/hi6620/8290enc/hx280enc.ko
+kernel/drivers/hi6620/g1dec/hx170dec.ko
+kernel/drivers/hi6620/memalloc/hisialloc.ko

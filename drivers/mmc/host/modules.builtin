@@ -1,0 +1,3 @@
+kernel/drivers/mmc/host/mshci.ko
+kernel/drivers/mmc/host/hi6620_mmc_raw.ko
+kernel/drivers/mmc/host/himmc/hi_mci.ko

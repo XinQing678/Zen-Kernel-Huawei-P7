@@ -1,0 +1,2 @@
+kernel/drivers/huawei/drivers/sensor/light/apds990x.ko
+kernel/drivers/huawei/drivers/sensor/light/isl29044.ko

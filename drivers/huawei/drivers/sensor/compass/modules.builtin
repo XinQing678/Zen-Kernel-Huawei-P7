@@ -1,0 +1,2 @@
+kernel/drivers/huawei/drivers/sensor/compass/akm8963.ko
+kernel/drivers/huawei/drivers/sensor/compass/akm09911.ko

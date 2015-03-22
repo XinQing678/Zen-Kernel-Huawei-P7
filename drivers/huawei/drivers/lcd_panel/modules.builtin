@@ -1,0 +1,5 @@
+kernel/drivers/huawei/drivers/lcd_panel/mipi_jdi_OTM1282B.ko
+kernel/drivers/huawei/drivers/lcd_panel/mipi_cmi_OTM1282B.ko
+kernel/drivers/huawei/drivers/lcd_panel/mipi_jdi_OTM1902B.ko
+kernel/drivers/huawei/drivers/lcd_panel/tps65132.ko
+kernel/drivers/huawei/drivers/lcd_panel/mipi_toshiba_MDY90.ko

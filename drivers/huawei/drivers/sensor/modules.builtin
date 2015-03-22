@@ -1,0 +1,8 @@
+kernel/drivers/huawei/drivers/sensor/accelerometer/lsm330_acc.ko
+kernel/drivers/huawei/drivers/sensor/accelerometer/lsm330_gyr.ko
+kernel/drivers/huawei/drivers/sensor/captouch/ad7146.ko
+kernel/drivers/huawei/drivers/sensor/compass/akm8963.ko
+kernel/drivers/huawei/drivers/sensor/compass/akm09911.ko
+kernel/drivers/huawei/drivers/sensor/hall/ak8789.ko
+kernel/drivers/huawei/drivers/sensor/light/apds990x.ko
+kernel/drivers/huawei/drivers/sensor/light/isl29044.ko

@@ -1,0 +1,5 @@
+kernel/drivers/huawei/drivers/connectivity/bluetooth/bluetooth-power.ko
+kernel/drivers/huawei/drivers/connectivity/bluetooth/bluesleep.ko
+kernel/drivers/huawei/drivers/connectivity/gps/gps_bcm4752.ko
+kernel/drivers/huawei/drivers/connectivity/nfc/pn544.ko
+kernel/drivers/huawei/drivers/connectivity/wifi/bcmdhd.ko

@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-hi6620/pwrctrl/periMgr/built-in.o :=   /home/sebastian/android/sabermod/bin/arm-linux-androideabi-ld -EL    -r -o arch/arm/mach-hi6620/pwrctrl/periMgr/built-in.o arch/arm/mach-hi6620/pwrctrl/periMgr/pwrctrl_perimgr.o 
